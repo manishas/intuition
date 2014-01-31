@@ -2,7 +2,7 @@ Intuition
 =========
 
 > Automated quantitative trading system kit, for hackers
-
+########
 
 ![Dashboard](https://raw.github.com/hivetech/hivetech.github.io/master/images/QuantDashboard.png)
 
